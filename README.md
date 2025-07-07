@@ -1,5 +1,11 @@
 # FFmpegKit for Flutter
 
+### Differences in this clone
+
+1. Rebuilt the native library `ffmpeg-kit-https-6.0-2`.
+2. Added support for Flutter v2 embedding.
+3. 16 KB page support will be added in the near future.
+
 ### 1. Features
 
 - Includes both `FFmpeg` and `FFprobe`
