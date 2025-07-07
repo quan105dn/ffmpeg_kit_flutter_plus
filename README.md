@@ -1,6 +1,6 @@
 # FFmpegKit for Flutter
 
-### Differences in this clone
+### ♨️ Differences in this clone
 
 1. Rebuilt the native library `ffmpeg-kit-https-6.0-2`.
 2. Added support for Flutter v2 embedding.
